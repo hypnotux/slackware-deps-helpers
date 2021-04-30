@@ -1,5 +1,6 @@
 ## slackware-deps-helpers
-Dependency resolution helper scripts for Slackware64
+Dependency resolution helper scripts for Slackware64.
+It uses `ldd` to solve link-time dependencies in a rudimentary manner.
 
 ## Usage
 1. Mount slackware DVD at `/mnt/cdrom`:
